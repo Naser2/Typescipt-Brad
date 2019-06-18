@@ -1,0 +1,1 @@
+This is a basic intro to type scrip 
